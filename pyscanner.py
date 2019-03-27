@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-import scapy.all as scapy
+import kamene.all as scapy
 import argparse
 
 def get_argument():
